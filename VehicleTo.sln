@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIVehicle", "APIVehicle\APIVehicle.csproj", "{57FD1D54-2125-4683-9A69-044D1667CC96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICustomers", "APICustomers\APICustomers.csproj", "{1084088D-7B69-48AD-AD09-6B9B6CC8EA6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIReservations", "APIReservations\APIReservations.csproj", "{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIGateway", "APIGateway\APIGateway.csproj", "{C30E9E83-7B3E-4B2F-B99C-FB188773611A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIVehicle.Tests", "APIVehicle.Tests\APIVehicle.Tests.csproj", "{17832DD3-0C16-41A2-A08C-F3A50226A238}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICustomer.Tests", "APICustomer.Tests\APICustomer.Tests.csproj", "{922406CF-4A14-48EC-BD22-C671D9D685D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIReservationss.Tests", "APIReservationss.Tests\APIReservationss.Tests.csproj", "{1DB67ADE-74A2-4D5F-95D4-03328331ADA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FD1D54-2125-4683-9A69-044D1667CC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FD1D54-2125-4683-9A69-044D1667CC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FD1D54-2125-4683-9A69-044D1667CC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FD1D54-2125-4683-9A69-044D1667CC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1084088D-7B69-48AD-AD09-6B9B6CC8EA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1084088D-7B69-48AD-AD09-6B9B6CC8EA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1084088D-7B69-48AD-AD09-6B9B6CC8EA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1084088D-7B69-48AD-AD09-6B9B6CC8EA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30E9E83-7B3E-4B2F-B99C-FB188773611A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30E9E83-7B3E-4B2F-B99C-FB188773611A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30E9E83-7B3E-4B2F-B99C-FB188773611A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30E9E83-7B3E-4B2F-B99C-FB188773611A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17832DD3-0C16-41A2-A08C-F3A50226A238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17832DD3-0C16-41A2-A08C-F3A50226A238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17832DD3-0C16-41A2-A08C-F3A50226A238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17832DD3-0C16-41A2-A08C-F3A50226A238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922406CF-4A14-48EC-BD22-C671D9D685D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922406CF-4A14-48EC-BD22-C671D9D685D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922406CF-4A14-48EC-BD22-C671D9D685D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922406CF-4A14-48EC-BD22-C671D9D685D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB67ADE-74A2-4D5F-95D4-03328331ADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB67ADE-74A2-4D5F-95D4-03328331ADA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB67ADE-74A2-4D5F-95D4-03328331ADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB67ADE-74A2-4D5F-95D4-03328331ADA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3210C74-63F1-455A-BDDE-E621E54027E7}
+	EndGlobalSection
+EndGlobal

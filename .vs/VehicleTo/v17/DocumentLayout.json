@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17832DD3-0C16-41A2-A08C-F3A50226A238}|APIVehicle.Tests\\APIVehicle.Tests.csproj|c:\\users\\vulln\\onedrive\\desktop\\vehicleto\\vehicleto\\apivehicle.tests\\service tests\\servicevehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17832DD3-0C16-41A2-A08C-F3A50226A238}|APIVehicle.Tests\\APIVehicle.Tests.csproj|solutionrelative:apivehicle.tests\\service tests\\servicevehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FD1D54-2125-4683-9A69-044D1667CC96}|APIVehicle\\APIVehicle.csproj|c:\\users\\vulln\\onedrive\\desktop\\vehicleto\\vehicleto\\apivehicle\\services\\servicevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FD1D54-2125-4683-9A69-044D1667CC96}|APIVehicle\\APIVehicle.csproj|solutionrelative:apivehicle\\services\\servicevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FD1D54-2125-4683-9A69-044D1667CC96}|APIVehicle\\APIVehicle.csproj|c:\\users\\vulln\\onedrive\\desktop\\vehicleto\\vehicleto\\apivehicle\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FD1D54-2125-4683-9A69-044D1667CC96}|APIVehicle\\APIVehicle.csproj|solutionrelative:apivehicle\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FD1D54-2125-4683-9A69-044D1667CC96}|APIVehicle\\APIVehicle.csproj|c:\\users\\vulln\\onedrive\\desktop\\vehicleto\\vehicleto\\apivehicle\\data\\dbcontextapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FD1D54-2125-4683-9A69-044D1667CC96}|APIVehicle\\APIVehicle.csproj|solutionrelative:apivehicle\\data\\dbcontextapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17832DD3-0C16-41A2-A08C-F3A50226A238}|APIVehicle.Tests\\APIVehicle.Tests.csproj|c:\\users\\vulln\\onedrive\\desktop\\vehicleto\\vehicleto\\apivehicle.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17832DD3-0C16-41A2-A08C-F3A50226A238}|APIVehicle.Tests\\APIVehicle.Tests.csproj|solutionrelative:apivehicle.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}|APIReservations\\APIReservations.csproj|c:\\users\\vulln\\onedrive\\desktop\\vehicleto\\vehicleto\\apireservations\\apireservations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}|APIReservations\\APIReservations.csproj|solutionrelative:apireservations\\apireservations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}|APIReservations\\APIReservations.csproj|c:\\users\\vulln\\onedrive\\desktop\\vehicleto\\vehicleto\\apireservations\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F39B0F-FCD8-4D3F-B42C-1AA86489F67F}|APIReservations\\APIReservations.csproj|solutionrelative:apireservations\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle\\Data\\DbContextAPI.cs",
+              "RelativeDocumentMoniker": "APIVehicle\\Data\\DbContextAPI.cs",
+              "ToolTip": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle\\Data\\DbContextAPI.cs",
+              "RelativeToolTip": "APIVehicle\\Data\\DbContextAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:48:09.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "APIVehicle\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle\\Models\\Vehicle.cs",
+              "RelativeToolTip": "APIVehicle\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:42:05.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIReservations.csproj",
+              "DocumentMoniker": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIReservations\\APIReservations.csproj",
+              "RelativeDocumentMoniker": "APIReservations\\APIReservations.csproj",
+              "ToolTip": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIReservations\\APIReservations.csproj",
+              "RelativeToolTip": "APIReservations\\APIReservations.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T17:03:43.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceVehicleTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle.Tests\\Service Tests\\ServiceVehicleTests.cs",
+              "RelativeDocumentMoniker": "APIVehicle.Tests\\Service Tests\\ServiceVehicleTests.cs",
+              "ToolTip": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle.Tests\\Service Tests\\ServiceVehicleTests.cs",
+              "RelativeToolTip": "APIVehicle.Tests\\Service Tests\\ServiceVehicleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:13:47.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "APIVehicle.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "APIVehicle.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:10:10.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle\\Services\\ServiceVehicle.cs",
+              "RelativeDocumentMoniker": "APIVehicle\\Services\\ServiceVehicle.cs",
+              "ToolTip": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIVehicle\\Services\\ServiceVehicle.cs",
+              "RelativeToolTip": "APIVehicle\\Services\\ServiceVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:57:56.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIReservations\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "APIReservations\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Vulln\\OneDrive\\Desktop\\VehicleTo\\VehicleTo\\APIReservations\\Services\\ReservationService.cs",
+              "RelativeToolTip": "APIReservations\\Services\\ReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:57:37.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
