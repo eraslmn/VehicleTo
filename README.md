@@ -33,7 +33,7 @@ Unit Tests: Written using .NET Core 7
 
 # Starting the Project
 
-To run the VehicleTo project, you need to set it up as <multiple startup projects> in your IDE. This ensures that all necessary APIs are started simultaneously, allowing the project to function correctly.
+To run the VehicleTo project, you need to set it up as "multiple startup projects" in your IDE. This ensures that all necessary APIs are started simultaneously, allowing the project to function correctly.
 
 # Conclusion
 
