@@ -7,10 +7,10 @@ VehicleTo is a vehicle management microservice project designed to manage variou
 The VehicleTo project is organized into four main web APIs:
 
 1. Reservations API -
-This API handles all operations related to vehicle reservations, including functionalities to create, update, delete, and retrieve reservations. It ensures that all reservation data is accurately managed and stored.
+This API handles all operations related to vehicle reservations. It ensures that all reservation data is accurately managed and stored.
 
 2. Customers API -
-The Customers API manages customer-related data and operations, providing endpoints for creating, updating, deleting, and retrieving customer information. It is crucial for maintaining customer records and ensuring seamless customer interactions.
+The Customers API manages customer-related data and operations. It is crucial for maintaining customer records and ensuring seamless customer interactions.
 
 3. Vehicle API -
 The Vehicle API focuses on managing vehicle data, with endpoints for adding, updating, deleting, and retrieving vehicle details. This API is essential for maintaining an up-to-date inventory of vehicles.
