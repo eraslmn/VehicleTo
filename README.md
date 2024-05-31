@@ -1,6 +1,6 @@
 # VehicleTo - Vehicle Management Microservice
 
-VehicleTo is a comprehensive vehicle management microservice project designed to manage various aspects of vehicle operations. The project consists of four distinct web APIs, each serving a unique purpose within the overall system. This project is primarily focused on creating unit tests for the different components, making it a valuable resource for software testing.
+VehicleTo is a vehicle management microservice project designed to manage various aspects of vehicle operations. The project consists of four distinct web APIs, each serving a unique purpose within the overall system. This project is primarily focused on creating unit tests for the different components, making it a valuable resource for software testing.
 
 # Project Structure
 
